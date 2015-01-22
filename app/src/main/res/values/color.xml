@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="menu_item_title">#cccccc</color>
+    <!--<color name="list_background">#772763</color>-->
+    <color name="menu_background">#2c323f</color>
+    <color name="list_divider">#272727</color>
+    <color name="counter_text_bg">#626262</color>
+    <color name="counter_text_color">#c5c4c4</color>
+    <color name="actionBar_background">#39a9dc</color>
+    <color name="actionBar_title">#ffffff</color>
+</resources>

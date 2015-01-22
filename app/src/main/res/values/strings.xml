@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">BeeNews</string>
+
+    <string name="about">Ce qu\'il y a écrire! Possible mếme de faire une webview!</string>
+
+    <!-- Non Authenticated Left Menu Items -->
+    <!-- Each item must be a value of the Screen Enum. -->
+    <array name="non_auth_left_menu_items">
+        <item>LOGIN</item>
+        <item>SETTINGS</item>
+        <item>CONFIGURATION</item>
+        <item>ABOUT</item>
+    </array>
+
+    <!-- Authenticated Left Menu Items -->
+    <!-- Each item must be a value of the Screen Enum. -->
+    <array name="auth_left_menu_items">
+        <item>NEWS</item>
+        <item>GOSSIPS</item>
+        <item>SPORTS</item>
+        <item>CLUBS</item>
+        <item>PROFILES</item>
+        <item>CONFIGURATION</item>
+        <item>SETTINGS</item>
+        <item>LOGOUT</item>
+        <item>ABOUT</item>
+    </array>
+
+</resources>
